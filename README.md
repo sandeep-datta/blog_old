@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### My pages
-[Mathjax test](/Mathjax_test)
+[Mathjax test](Mathjax_test)
