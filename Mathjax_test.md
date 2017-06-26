@@ -1,10 +1,7 @@
 
 1. Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
-2. Now a inline math with special character: 
-$|\psi\rangle$, 
-$x'$, 
-$x^\*$
+2. Now a inline math with special character: $|\psi\rangle$, $x'$, $x^\*$
 
 3. Test a display math:
 $$
