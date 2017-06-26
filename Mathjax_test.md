@@ -30,12 +30,12 @@ $$
 Is it O.K.?
 
 6. And test a display math without equaltion number:
-```math
-  \begin{align*}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
-    |\psi_2\rangle &= c|0\rangle + d|1\rangle
-  \end{align*}
-```
+
+\begin{align\*}
+ \|\psi_1\rangle &= a\|0\rangle + b\|1\rangle \\\\
+ \|\psi_2\rangle &= c\|0\rangle + d\|1\rangle
+\end{align\*}
+
 Is it O.K.?
 
 7. Test a display math with equation number:
