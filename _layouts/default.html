@@ -14,7 +14,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     
-    {% include mathjax_support %}
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
     
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
