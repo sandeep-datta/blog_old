@@ -1,3 +1,8 @@
+---
+title: "Test math"
+use_math: true
+---
+
 
 1. Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
