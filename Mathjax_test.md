@@ -1,6 +1,6 @@
 ---
 title: "Test math"
-use_math: true
+use_math: false
 ---
 
 
